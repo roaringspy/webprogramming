@@ -1,0 +1,38 @@
+nav{
+    background-color: #333;
+    width: 100%;
+    overflow: hidden;
+}
+
+#nav1{
+    float: left;
+    padding: 20px;
+    font-size: 30px;
+}
+#nav1 a{
+    margin-left: 20px;
+    color: lightgray;
+    text-decoration: none;
+}
+#nav2 a:hover {
+    color: white;
+}
+#nav2{
+    float: right;
+    padding: 20px;
+    font-size: 30px;
+}
+#nav2 a{
+    margin-left: 20px;
+    color: lightgray;
+    text-decoration: none;
+}
+#nav2 a:hover{
+    color: white;
+}
+body{
+    background-color: lightgrey;
+    font-family: Arial, sans-serif;
+    margin: 0;
+}
+
